@@ -4,10 +4,10 @@
 This web page aims to present the establishment, show the products, prices and ways to get in touch.
 
 Responsiveness:
-[X] Dasktop
-[X] Tablet
-[X] Mobile
-[ ] TV
+- [X] Dasktop
+- [X] Tablet
+- [X] Mobile
+- [ ] TV
 
 ## Credits
 Image Home: @freepik
