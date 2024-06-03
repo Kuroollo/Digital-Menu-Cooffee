@@ -15,7 +15,8 @@ Image Home: @freepik
 ## Icons
 icons.getbootstrap.com
 
-- i-instagram
+- bi-arrow-bar-down
+- bi-instagram
 - bi-whatsapp
 - bi-envelope
 
